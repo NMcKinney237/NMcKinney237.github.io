@@ -1,3 +1,1 @@
-# https://nmckinney237.github.io/index.html 
-#
-#
+https://nmckinney237.github.io/
